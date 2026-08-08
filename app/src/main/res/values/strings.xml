@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">RataAPK</string>
+
+    <!-- PinActivity -->
+    <string name="pin_title">Masukkan PIN</string>
+    <string name="pin_subtitle">Masukkan PIN untuk membuka aplikasi</string>
+    <string name="pin_hint">PIN</string>
+    <string name="pin_masuk">Masuk</string>
+    <string name="pin_salah">PIN salah. Coba lagi atau hubungi admin.</string>
+    <string name="pin_hubungi_admin">Lupa / belum punya PIN? Hubungi Admin</string>
+    <string name="pin_hubungi_admin_pesan">Halo Admin, saya butuh PIN baru untuk masuk aplikasi RataAPK.</string>
+    <string name="pin_nomor_admin">WhatsApp Admin: 0853-4652-7481</string>
+
+    <!-- AdminActivity -->
+    <string name="admin_panel_title">Panel Admin</string>
+    <string name="admin_mode_badge">Mode Admin</string>
+    <string name="admin_daftar_pin_title">Daftar PIN Pengguna</string>
+    <string name="admin_pin_baru_hint">PIN pengguna baru (4\u20138 digit)</string>
+    <string name="admin_tambah_pin">Tambah PIN</string>
+    <string name="admin_pin_kosong">Belum ada PIN pengguna. Tambahkan di atas.</string>
+    <string name="admin_hapus_pin_judul">Hapus PIN?</string>
+    <string name="admin_hapus_pin_pesan">Pengguna dengan PIN %1$s tidak akan bisa masuk lagi.</string>
+    <string name="admin_hapus_ya">Hapus</string>
+    <string name="admin_batal">Batal</string>
+    <string name="admin_pin_sudah_ada">PIN tersebut sudah terdaftar.</string>
+    <string name="admin_pin_invalid">PIN harus 4\u20138 digit angka.</string>
+    <string name="admin_pin_tidak_boleh_sama_admin">PIN pengguna tidak boleh sama dengan PIN admin.</string>
+    <string name="admin_buka_aplikasi">Buka Aplikasi (Mode Admin)</string>
+    <string name="admin_keluar">Keluar</string>
+
+    <!-- MainActivity -->
+    <string name="main_menu_kelola_pin">Kelola PIN Pengguna</string>
+    <string name="main_menu_keluar">Keluar / Ganti PIN</string>
+
+    <!-- Footer, tampil di semua halaman -->
+    <string name="app_footer">@By Yusup -Putra Langit Technology 2026</string>
+</resources>
